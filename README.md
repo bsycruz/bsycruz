@@ -68,6 +68,8 @@ Especialista en la intersección entre la **Industria AEC (Arquitectura, Ingenie
 #### 1. Predictibilidad de Cronogramas de Obra (ML + Cloud)
 > **Descripción:** Modelo predictivo basado en clusterización K-Means y simulación Montecarlo para evaluar riesgos y optimizar tiempos en cronogramas de construcción.
 > 
+>  **Recurso en línea:** [Paper](http://www.hermes.unal.edu.co/pages/Consultas/Proyecto.xhtml?idProyecto=65732)
+>
 > **Infraestructura & Stack:** `Python` · `Scikit-Learn` · `Google Cloud Platform` · `MLflow` · `PostgreSQL`
 
 #### 2. Portal Educativo: AI + Nube + Construcción
