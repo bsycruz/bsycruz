@@ -87,7 +87,7 @@ Especialista en la intersección entre la **Industria AEC (Arquitectura, Ingenie
 #### 4. Cany AI
 > **Descripción:** Plataforma educativa y experimental enfocada en la integración de analítica de datos, herramientas visuales e Inteligencia Artificial aplicada a proyectos de construcción y arquitectura.
 > 
->**Sitio oficial:** [canyai]((https://canyai.vercel.app/#/))
+>**Sitio oficial:** [canyai](https://canyai.vercel.app/#/)
 > 
 > **Stack:** `Python` · `Power BI` · `Speakle` · `Supabase` · `JavaScript` · `Google Cloud`
 
