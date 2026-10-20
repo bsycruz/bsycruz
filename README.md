@@ -75,7 +75,7 @@ Especialista en la intersección entre la **Industria AEC (Arquitectura, Ingenie
 #### 2. Portal Educativo: AI + Nube + Construcción
 > **Descripción:** Plataforma de código abierto y recurso didáctico diseñado para capacitar al sector AEC en la adopción de Machine Learning, Deep Learning, RAG, Agentes de IA y MLOps.
 > 
-> **Recurso en línea:** [bryansycruz.github.io/bryansycruz/intro.html](https://bryansycruz.github.io/bryansycruz/intro.html)
+> **Recurso en línea:** [bryansycruz.github.io](https://bryansycruz.github.io/bryansycruz/intro.html)
 > 
 > **Stack:** `Python` · `LangChain` · `FAISS` · `AWS / GCP` · `Jupyter`
 
